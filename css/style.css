@@ -1,0 +1,21 @@
+
+
+header {
+  text-align: center;
+}
+
+header h1 {
+  margin-bottom: 40px;
+}
+
+
+.table {
+  display: none;
+  max-width: 1200px;
+  margin: 0 auto;
+  margin-top: 40px;
+}
+
+.table.show {
+  display: table;
+}
